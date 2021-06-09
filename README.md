@@ -1,0 +1,1 @@
+This project takes the new prices of certain Crypto Currencies from the WazirX api and send it to a email in every half an hour and it also speaks the prices out loud. I've used a Raspberry pi to keep it running.
